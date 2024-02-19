@@ -1,0 +1,167 @@
+Mathematics;;;;;;
+Performance level;Number of students;;;;;
+Poor;53109;14,5%;;;;
+Regular;160473;43,7%;;;;
+Good;140044;38,2%;;;;
+Excellent;13228;3,6%;;;;
+Total;366854;;;;;
+;;;;;;
+Natural science;;;;;;
+Performance level;Number of students;;;;;
+Poor;72265;19,7%;;;;
+Regular;191893;52,3%;;;;
+Good;95027;25,9%;;;;
+Excellent;7669;2,1%;;;;
+Total;366854;;;;;
+;;;;;;
+Social science and citizenship skills;;;;;;
+Performance level;Number of students;;;;;
+Poor;108483;29,6%;;;;
+Regular;169475;46,2%;;;;
+Good;80143;21,8%;;;;
+Excellent;8753;2,4%;;;;
+Total;366854;;;;;
+;;;;;;
+Critical reading;;;;;;
+Performance level;Number of students;;;;;
+Poor;17040;4,6%;;;;
+Regular;166858;45,5%;;;;
+Good;154888;42,2%;;;;
+Excellent;28068;7,7%;;;;
+Total;366854;;;;;
+;;;;;;
+English;;;;;;
+Performance level;Number of students;;;;;
+A-;192242;52,4%;;;;
+A1;108411;29,6%;82,0%;;;
+A2;45571;12,4%;;;;
+B1;17151;4,7%;;;;
+B+;3479;0,9%;;;;
+Total;366854;;;;;
+;;;;;;
+;;;;;;
+Performance level;Mathematics;Natural science;Social science and citizenship skills;Critical reading;;
+Poor;53109;72265;108483;17040;;
+Regular;160473;191893;169475;166858;;
+Good;140044;95027;80143;154888;;
+Excellent;13228;7669;8753;28068;;
+Total;366854;366854;366854;366854;;
+;;;;;;
+;;;;;;
+Performance level;Mathematics;Natural science;Social science and citizenship skills;Critical reading;;
+Poor;14,5%;19,7%;29,6%;4,6%;;
+Regular;43,7%;52,3%;46,2%;45,5%;;
+Good;38,2%;25,9%;21,8%;42,2%;;
+Excellent;3,6%;2,1%;2,4%;7,7%;;
+Total;100%;100%;100%;100%;;
+;;;;;;
+;58,2%;72,0%;75,8%;50,1%;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+Area;Etnia / Level;Poor;Regular;Good;Excellent;Sub total
+Mathematics;No;38523;131568;126196;12497;308784
+;Yes;14586;28905;13848;731;58070
+Sub total;;53109;160473;140044;13228;366854
+Natural science;No;53598;161091;86824;7271;308784
+;Yes;18667;30802;8203;398;58070
+Sub total;;72265;191893;95027;7669;366854
+Social science;No;83391;144026;73074;8293;308784
+;Yes;25092;25449;7069;460;58070
+Sub total;;108483;169475;80143;8753;366854
+Critical reading;No;11865;133079;137521;26319;308784
+;Yes;5175;33779;17367;1749;58070
+Sub total;;17040;166858;154888;28068;366854
+Total;;250897;688699;470102;57718;
+;;;;;;
+;;;;;;
+Area;Etnia / Level;Poor;Regular;Good;Excellent;Sub total
+Mathematics;No;10,5%;35,9%;34,4%;3,4%;84,2%
+;Yes;4,0%;7,9%;3,8%;0,2%;15,8%
+Sub total;;14,5%;43,7%;38,2%;3,6%;100%
+Natural science;No;14,6%;43,9%;23,7%;2,0%;84,2%
+;Yes;5,1%;8,4%;2,2%;0,1%;15,8%
+Sub total;;19,7%;52,3%;25,9%;2,1%;100%
+Social science;No;22,7%;39,3%;19,9%;2,3%;84,2%
+;Yes;6,8%;6,9%;1,9%;0,1%;15,8%
+Sub total;;29,6%;46,2%;21,8%;2,4%;100%
+Critical reading;No;3,2%;36,3%;37,5%;7,2%;84,2%
+;Yes;1,4%;9,2%;4,7%;0,5%;15,8%
+Sub total;;4,6%;45,5%;42,2%;7,7%;100%
+Total;;68,4%;187,7%;128,1%;15,7%;
+;;;;;;
+;;;;;;
+Area;Etnia / Level;Poor;Regular;Good;Excellent;Sub total
+Mathematics;No;12,5%;42,6%;40,9%;4,0%;100,0%
+;Yes;25,1%;49,8%;23,8%;1,3%;100,0%
+Sub total;;;;;;200%
+Natural science;No;17,4%;52,2%;28,1%;2,4%;100,0%
+;Yes;32,1%;53,0%;14,1%;0,7%;100,0%
+Sub total;;;;;;200%
+Social science;No;27,0%;46,6%;23,7%;2,7%;100,0%
+;Yes;43,2%;43,8%;12,2%;0,8%;100,0%
+Sub total;;;;;;200%
+Critical reading;No;3,8%;43,1%;44,5%;8,5%;100,0%
+;Yes;8,9%;58,2%;29,9%;3,0%;100,0%
+Sub total;;;;;;200%
+Total;;;;;;
+;;;;;;
+;;;55,1%;;;
+;;;74,9%;;;
+;;;;;;
+;;;69,5%;;;
+;;;85,2%;;;
+;;;;;;
+;;;73,6%;;;
+;;;87,0%;;;
+;;;;;;
+;;;46,9%;;;
+;;;67,1%;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+English;;;;;;
+Etnia / Level;A-;A1;A2;B+;B1;Total
+No;153395;94327;41442;3372;16248;308784
+Yes;38847;14084;4129;107;903;58070
+Total;192242;108411;45571;3479;17151;366854
+;;;;;;
+English;;;;;;
+Etnia / Level;A-;A1;A2;B+;B1;Total
+No;41,8%;25,7%;11,3%;0,9%;4,4%;84,2%
+Yes;10,6%;3,8%;1,1%;0,0%;0,2%;15,8%
+Total;52,4%;29,6%;12,4%;0,9%;4,7%;100%
+;;;;;;
+English;;;;;;
+Etnia / Level;A-;A1;A2;B+;B1;Total
+No;49,7%;30,5%;13,4%;1,1%;5,3%;100,0%
+Yes;66,9%;24,3%;7,1%;0,2%;1,6%;100,0%
+Total;;;;;;
+;;;;;;
+;;;80,2%;;;
+;;;91,2%;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+Class;Student;;;;;
+Score ? national average;148471;;;;;
+Score < national average;218383;;;;;
+Total general;366854;;;;;
